@@ -18,4 +18,4 @@
 **[武器加强](docs/2.1)**
 
 **[天赋系统](docs/2.2)**
-123(https://www.meland.top)
+[123](https://www.meland.top)
